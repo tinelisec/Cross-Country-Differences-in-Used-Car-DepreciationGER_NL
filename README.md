@@ -4,7 +4,6 @@
 
 [Full paper (PDF)](<FINAL PAPER/Cross-Country Differences in Used Car Depreciation - Age vs Mileage Effects in Germany and The Netherlands.pdf>) - 4,862 listings, OLS regression, methodology and full results
 
----
 
 ## The question
 
