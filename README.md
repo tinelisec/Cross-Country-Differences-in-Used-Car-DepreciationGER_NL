@@ -2,7 +2,7 @@
 
 **Summary:** Age matters about the same in both countries (~3%/year). Mileage doesn't — Dutch buyers punish high-mileage cars **3x harder** than German buyers do. Same car, same age, wildly different price penalty depending on which side of the border you're selling it.
 
-[Full paper (PDF)](final-paper/cross-country-differences.pdf) — 4,862 listings, OLS regression, methodology and full results
+[Full paper (PDF)](FINAL-PAPER/cross-country-differences.pdf) - 4,862 listings, OLS regression, methodology and full results
 
 ---
 
