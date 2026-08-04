@@ -2,7 +2,8 @@
 
 **Summary:** Age matters about the same in both countries (~3%/year). Mileage doesn't — Dutch buyers punish high-mileage cars **3x harder** than German buyers do. Same car, same age, wildly different price penalty depending on which side of the border you're selling it.
 
-**[Full paper (PDF)]([FINAL-PAPER/cross-country-differences.pdf](https://github.com/tinelisec/-1-Cross-Country-Differences-in-Used-Car-DepreciationGER_NL/blob/main/FINAL%20PAPER/Cross-Country%20Differences%20in%20Used%20Car%20Depreciation%20-%20Age%20vs%20Mileage%20Effects%20in%20Germany%20and%20The%20Netherlands.pdf))** - 4,862 listings, OLS regression, methodology and full results
+[Full paper (PDF)](<FINAL PAPER/Cross-Country Differences in Used Car Depreciation - Age vs Mileage Effects in Germany and The Netherlands.pdf>)
+ - 4,862 listings, OLS regression, methodology and full results
 
 ---
 
